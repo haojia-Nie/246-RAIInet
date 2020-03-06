@@ -1,0 +1,7 @@
+board
+move a down
+ability 0 B
+move B up
+move a down
+board
+board
