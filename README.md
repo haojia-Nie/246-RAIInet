@@ -22,24 +22,15 @@ We use the text display as a demo for the command
 
 each player owns 5 special abilities that they can use through out the game
 
-**LinkBoost**
+**LinkBoost**  doubles the step they can move
 
-doubles the step they can move
+**Reveal**  reveal the information about your opponent's piece
 
-**Reveal**
-reveal the information about your opponent's piece
+**Firewall**  set a firewall in a grid, and once your opponent's piece step into it, their piece will automatically be taken by you
 
-**Firewall**
+**MagicShield**  you are immune to firewall
 
-set a firewall in a grid, and once your opponent's piece step into it, their piece will automatically be taken by you
-
-**MagicShield**
-
-you are immune to firewall
-
-**Invisible**
-
-one of your piece will be invisible on the board to your opponent.
+**Invisible**  one of your piece will be invisible on the board to your opponent.
 
 
 To be continued
