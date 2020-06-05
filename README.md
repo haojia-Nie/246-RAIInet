@@ -18,17 +18,28 @@ We use the text display as a demo for the command
 
 <img width="274" alt="Screen Shot 2020-06-05 at 3 05 35 PM" src="https://user-images.githubusercontent.com/52882728/83914348-11b3dd80-a73f-11ea-8266-9ceffb0027a9.png">
 
-**Abilities**: each player owns 5 special abilities that they can use through out the game
+**Abilities**: 
 
-LinkBoost: doubles the step they can move
+each player owns 5 special abilities that they can use through out the game
 
-Reveal: reveal the information about your opponent's piece
+**LinkBoost**
 
-Firewall: set a firewall in a grid, and once your opponent's piece step into it, their piece will automatically be taken by you
+doubles the step they can move
 
-MagicShield: you are immune to firewall
+**Reveal**
+reveal the information about your opponent's piece
 
-Invisible: one of your piece will be invisible on the board to your opponent.
+**Firewall**
+
+set a firewall in a grid, and once your opponent's piece step into it, their piece will automatically be taken by you
+
+**MagicShield**
+
+you are immune to firewall
+
+**Invisible**
+
+one of your piece will be invisible on the board to your opponent.
 
 
 To be continued
